@@ -4,7 +4,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## MyCroft Discovery and Applications
 
-<img src="Miscellaneous/cover.jpeg"
+<img src="Miscellaneous/cover.jfif"
      style="float: left; margin-right: 0px;" />
 
 ---
