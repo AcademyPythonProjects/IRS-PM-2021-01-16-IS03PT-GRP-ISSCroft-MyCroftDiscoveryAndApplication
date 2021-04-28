@@ -90,6 +90,7 @@ Our team had an amazing time working on this project, and hope to share our insi
 2. Business Perspective
 3. Market Research
 4. Project Objectives
+
 5. System Specification
 5.1 Mycroft Architecture
 5.2 Mycroft Data Privacy Handling
@@ -99,6 +100,7 @@ Our team had an amazing time working on this project, and hope to share our insi
 5.6 Mycroft Personal Selene Server setup
 5.7 Mycroft Skill Management
 5.8 Use Cases Specification
+
 6. System Implementation
 6.1 Mycroft Home Setup
 6.2 Mycroft Linux Installation and Configuration
@@ -107,6 +109,7 @@ Our team had an amazing time working on this project, and hope to share our insi
 6.5 Public Skill Create and Run
 6.6 Mycroft Personal Server setup
 6.7 Use Cases Implementation
+
 7.  Project Conclusions
 - Appendix: Project Proposal
 - Appendix: Mapped System Functionalities against MR, RS, CGS	35
