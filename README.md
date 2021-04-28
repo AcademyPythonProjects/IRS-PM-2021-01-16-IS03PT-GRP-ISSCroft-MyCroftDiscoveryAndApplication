@@ -17,7 +17,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## MyCroft Discovery and Applications
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="Miscellaneous/picroft.jpg"
      style="float: left; margin-right: 0px;" />
 
 ---
