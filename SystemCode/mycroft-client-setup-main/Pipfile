@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+certifi = "*"
+pyjwt = "<=1.7.1"
+behave = "*"
+requests = "*"
+
+[dev-packages]
+behave = "*"
+pyhamcrest = "*"
+black = "*"
+pylint = "*"
+allure-behave = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

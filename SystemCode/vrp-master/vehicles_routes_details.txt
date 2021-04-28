@@ -1,0 +1,39 @@
+Route for vehicle 0:
+ 26 Deliver(0) ->  66 Deliver(25) ->  68 Deliver(50) ->  69 Deliver(75) ->  67 Deliver(100) ->  70 Deliver(125) ->  71 Deliver(150) ->  72 Deliver(175) ->  75 Deliver(200) ->  73 Deliver(225) ->  65 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 45km
+Delivery of the route: 250
+Route for vehicle 1:
+ 26 Deliver(0) ->  16 Deliver(25) ->  5 Deliver(50) ->  1 Deliver(75) ->  2 Deliver(100) ->  3 Deliver(125) ->  4 Deliver(150) ->  6 Deliver(175) ->  15 Deliver(200) ->  64 Deliver(225) ->  18 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 24km
+Delivery of the route: 250
+Route for vehicle 2:
+ 26 Deliver(0) ->  82 Deliver(25) ->  83 Deliver(50) ->  86 Deliver(75) ->  80 Deliver(100) ->  81 Deliver(125) ->  79 Deliver(150) ->  78 Deliver(175) ->  77 Deliver(200) ->  76 Deliver(225) ->  74 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 45km
+Delivery of the route: 250
+Route for vehicle 3:
+ 26 Deliver(0) ->  54 Deliver(25) ->  55 Deliver(50) ->  45 Deliver(75) ->  44 Deliver(100) ->  43 Deliver(125) ->  49 Deliver(150) ->  46 Deliver(175) ->  47 Deliver(200) ->  50 Deliver(225) ->  52 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 34km
+Delivery of the route: 250
+Route for vehicle 4:
+ 26 Deliver(0) ->  22 Deliver(25) ->  28 Deliver(50) ->  27 Deliver(75) ->  41 Deliver(100) ->  40 Deliver(125) ->  51 Deliver(150) ->  48 Deliver(175) ->  31 Deliver(200) ->  29 Deliver(225) ->  30 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 20km
+Delivery of the route: 250
+Route for vehicle 5:
+ 26 Deliver(0) ->  25 Deliver(25) ->  60 Deliver(50) ->  62 Deliver(75) ->  61 Deliver(100) ->  59 Deliver(125) ->  58 Deliver(150) ->  84 Deliver(175) ->  85 Deliver(200) ->  87 Deliver(225) ->  56 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 23km
+Delivery of the route: 250
+Route for vehicle 6:
+ 26 Deliver(0) ->  21 Deliver(25) ->  14 Deliver(50) ->  13 Deliver(75) ->  12 Deliver(100) ->  10 Deliver(125) ->  11 Deliver(150) ->  0 Deliver(175) ->  7 Deliver(200) ->  8 Deliver(225) ->  9 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 21km
+Delivery of the route: 250
+Route for vehicle 7:
+ 26 Deliver(0) ->  32 Deliver(25) ->  34 Deliver(50) ->  33 Deliver(75) ->  38 Deliver(100) ->  39 Deliver(125) ->  36 Deliver(150) ->  35 Deliver(175) ->  37 Deliver(200) ->  42 Deliver(225) ->  53 Deliver(250) ->  26 Deliver(250)
+Distance of the route: 21km
+Delivery of the route: 250
+Route for vehicle 8:
+ 26 Deliver(0) ->  24 Deliver(25) ->  57 Deliver(50) ->  63 Deliver(75) ->  20 Deliver(100) ->  19 Deliver(125) ->  17 Deliver(150) ->  23 Deliver(175) ->  26 Deliver(175)
+Distance of the route: 7km
+Delivery of the route: 175
+
+Total_distance in km: 240
+Total number of parcels delivered: 2175
