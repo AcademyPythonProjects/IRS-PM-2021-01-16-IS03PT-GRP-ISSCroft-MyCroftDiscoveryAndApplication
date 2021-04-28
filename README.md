@@ -1,17 +1,4 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
-
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]** IRS-PM-2020-01-18-IS02PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[ MTech Stackable Group Project Naming Example ]** IRS-PM-2020-01-18-STK02-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-[Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
-
----
-
-### <<<<<<<<<<<<<<<<<<<< Start of Template >>>>>>>>>>>>>>>>>>>>
-
+﻿
 ---
 
 ## SECTION 1 : PROJECT TITLE
@@ -35,7 +22,7 @@ The Mycroft Linux VDM platform serves as a good and standard platform for learni
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Name  | Student ID  | Work Items (Who Did What) | Email (Optional) |
+| Name  | Student ID  | Work Items (Who Did What) | Email |
 | :------------ |:---------------:| :-----| :-----|
 | LI XIAO XIA   | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
 | YANG YANG     | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
