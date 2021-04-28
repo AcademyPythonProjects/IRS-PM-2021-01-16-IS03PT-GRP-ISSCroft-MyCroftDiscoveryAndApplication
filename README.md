@@ -28,11 +28,16 @@ The Mycroft Linux VDM platform serves as a good and standard platform for learni
 | YANG YANG     | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
 | TAN WOEI MING | A0229974L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| twming2001@yahoo.com.sg |
 | JIANG AI GUO  | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| ANG JENN NING | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
+| ANG JENN NING | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@q.com |
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+
+MyCroft in Picroft
+- Voice Assisted
+- API call integration
+- Private and Scalable Selene Server
 
 [![MyCroft Application](http://img.youtube.com/vi/AQxaRUFnKfw/0.jpg)](https://youtu.be/AQxaRUFnKfw "MyCroft Application")
 
