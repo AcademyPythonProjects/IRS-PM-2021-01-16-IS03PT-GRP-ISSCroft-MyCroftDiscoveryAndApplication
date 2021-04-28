@@ -15,7 +15,7 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## Singapore Housing & Deveoplment Board - BTO Recommender System
+## MyCroft Discovery and Applications
 
 <img src="SystemCode/clips/static/hdb-bto.png"
      style="float: left; margin-right: 0px;" />
@@ -38,13 +38,13 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| Name  | Student ID  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Desmond Chua | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| Chang Ye Han | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Ganesh Kumar | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| Jeanette Lim | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
+| LI XIAO XIA   | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
+| YANG YANG     | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
+| TAN WOEI MING | A0229974L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| twming2001@yahoo.com.sg |
+| JIANG AI GUO  | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
+| ANG JENN NING | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
 
 ---
 
@@ -56,7 +56,7 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to MDDS_User_Guide file.`
 
 ### [ 1 ] To run the system using iss-vm
 
@@ -84,35 +84,39 @@ Our team had an amazing time working on this project, and hope to share our insi
 > $ pip install pyclips flask flask-socketio eventlet simplejson pandas
 
 ---
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 6 : PROJECT REPORT
 
-`Refer to project report at Github Folder: ProjectReport`
-
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Market Research
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- Appendix of report: Project Proposal
-- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
-- Appendix of report: Installation and User Guide
-- Appendix of report: 1-2 pages individual project report per project member, including: Individual reflection of project journey: (1) personal contribution to group project (2) what learnt is most useful for you (3) how you can apply the knowledge and skills in other situations or your workplaces
-- Appendix of report: List of Abbreviations (if applicable)
-- Appendix of report: References (if applicable)
+1. Project Overview
+2. Business Perspective
+3. Market Research
+4. Project Objectives
+5. System Specification
+5.1 Mycroft Architecture
+5.2 Mycroft Data Privacy Handling
+5.3 Mycroft Home-UI Setting
+5.4 Mycroft Linux Installation and Application
+5.5 Picroft Installation and Application
+5.6 Mycroft Personal Selene Server setup
+5.7 Mycroft Skill Management
+5.8 Use Cases Specification
+6. System Implementation
+6.1 Mycroft Home Setup
+6.2 Mycroft Linux Installation and Configuration
+6.3 Mycroft Picroft Config
+6.4 Private Skill Create and Run
+6.5 Public Skill Create and Run
+6.6 Mycroft Personal Server setup
+6.7 Use Cases Implementation
+7.  Project Conclusions
+- Appendix: Project Proposal
+- Appendix: Mapped System Functionalities against MR, RS, CGS	35
+- Appendix: Installation and User Guide
+- Appendix: References
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 
 `Refer to Github Folder: Miscellaneous`
-
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
 
 ---
 
