@@ -34,7 +34,7 @@ The Mycroft Linux VDM platform serves as a good and standard platform for learni
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![MyCroft Application](http://img.youtube.com/vi/AQxaRUFnKfw/0.jpg)](https://youtu.be/AQxaRUFnKfw "MyCroft Application")
+[![MyCroft Application](http://img.youtube.com/vi/AQxaRUFnKfw/50.jpg)](https://youtu.be/AQxaRUFnKfw "MyCroft Application")
 
 ---
 
