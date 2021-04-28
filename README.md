@@ -90,31 +90,29 @@ Our team had an amazing time working on this project, and hope to share our insi
 2. Business Perspective
 3. Market Research
 4. Project Objectives
-
 5. System Specification
-5.1 Mycroft Architecture
-5.2 Mycroft Data Privacy Handling
-5.3 Mycroft Home-UI Setting
-5.4 Mycroft Linux Installation and Application
-5.5 Picroft Installation and Application
-5.6 Mycroft Personal Selene Server setup
-5.7 Mycroft Skill Management
-5.8 Use Cases Specification
-
+- Mycroft Architecture
+- Mycroft Data Privacy Handling
+- Mycroft Home-UI Setting
+- Mycroft Linux Installation and Application
+- Picroft Installation and Application
+- Mycroft Personal Selene Server setup
+- Mycroft Skill Management
+- Use Cases Specification
 6. System Implementation
-6.1 Mycroft Home Setup
-6.2 Mycroft Linux Installation and Configuration
-6.3 Mycroft Picroft Config
-6.4 Private Skill Create and Run
-6.5 Public Skill Create and Run
-6.6 Mycroft Personal Server setup
-6.7 Use Cases Implementation
-
+- Mycroft Home Setup
+- Mycroft Linux Installation and Configuration
+- Mycroft Picroft Config
+- Private Skill Create and Run
+- Public Skill Create and Run
+- Mycroft Personal Server setup
+- Use Cases Implementation
 7.  Project Conclusions
-- Appendix: Project Proposal
-- Appendix: Mapped System Functionalities against MR, RS, CGS	35
-- Appendix: Installation and User Guide
-- Appendix: References
+8. Appendix
+- Project Proposal
+- Mapped System Functionalities against MR, RS, CGS	35
+- Installation and User Guide
+- References
 
 ---
 ## SECTION 7 : MISCELLANEOUS
