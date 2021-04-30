@@ -56,7 +56,7 @@ References to setup MyCroft Account, Raspberry Pi and Selene Server
 Refer to [MDAA_Installation_User_Guide](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Installation_User_Guide.docx) file in ProjectReport folder. 
 
 ---
-## SECTION 6 : PROJECT REPORT ####### [link](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Project%20Report_Group4.docx)
+## SECTION 6 : PROJECT REPORT 
 
 1. Project Overview
 2. Business Perspective
@@ -85,7 +85,7 @@ Refer to [MDAA_Installation_User_Guide](https://github.com/twming/IRS-PM-2021-01
 - Mapped System Functionalities against MR, RS, CGS
 - Installation and User Guide
 - References
-
+####### [Report link](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Project%20Report_Group4.docx)
 ---
 ## SECTION 7 : MISCELLANEOUS
 
