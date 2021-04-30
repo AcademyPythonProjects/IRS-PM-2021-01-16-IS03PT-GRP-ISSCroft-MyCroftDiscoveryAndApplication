@@ -53,7 +53,7 @@ References to setup MyCroft Account, Raspberry Pi and Selene Server
 | Selene Personal Server Setup | User Guide 3.3 |
 | Delivery  Use Case Code Setup | User Guide 4.1, 4.2 |
 
-Refer to MDAA_Installation_User_Guide file in Miscellaneous folder. 
+Refer to [MDAA_Installation_User_Guide](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Installation_User_Guide.docx) file in ProjectReport folder. 
 
 ---
 ## SECTION 6 : PROJECT REPORT
