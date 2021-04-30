@@ -24,11 +24,11 @@ The Mycroft Linux VDM platform serves as a good and standard platform for learni
 
 | Name  | Student ID  | Work Items (Who Did What) | Email |
 | :------------ |:---------------:| :-----| :-----|
-| LI XIAO XIA   | A0229975J | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687383@u.nus.edu |
-| YANG YANG     | A0229971R | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687379@u.nus.edu |
-| TAN WOEI MING | A0229974L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687382@u.nus.edu |
-| JIANG AI GUO  | A0180524L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0284010@u.nus.edu |
-| ANG JENN NING | A0229970U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687378@u.nus.edu |
+| LI XIAO XIA   | A0229975J | Overall system architect and design, Mycroft Linux application, Project management and documentation.| E0687383@u.nus.edu |
+| YANG YANG     | A0229971R | Overall system design and implementation, Personal server setup , application and documentation.| E0687379@u.nus.edu |
+| TAN WOEI MING | A0229974L | Overall system architect, design and implementation, Picroft application and documentation.| E0687382@u.nus.edu |
+| JIANG AI GUO  | A0180524L | Voice assistant for routes optimized parcel delivery design, implementation and documentation.Iris species prediction application as a demo application for yangyang to build ISS Project API and Mycroft Skill| E0284010@u.nus.edu |
+| ANG JENN NING | A0229970U | Overall system implementation,promotional video, system presentational video| E0687378@u.nus.edu |
 
 ---
 
@@ -111,9 +111,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=Ntgi5n6cIbU" target="_blank"><img src="http://img.youtube.com/vi/Ntgi5n6cIbU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
----
-
-### <<<<<<<<<<<<<<<<<<<< End of Template >>>>>>>>>>>>>>>>>>>>
 
 ---
 
