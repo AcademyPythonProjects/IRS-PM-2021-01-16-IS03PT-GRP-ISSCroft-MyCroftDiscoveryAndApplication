@@ -44,7 +44,7 @@ MyCroft in Picroft & Selene Server
 
 ## SECTION 5 : USER GUIDE
 
-Referenct to setup MyCroft Account, Raspberry Pi and Selene Server
+References to setup MyCroft Account, Raspberry Pi and Selene Server
 
 | Items  | Reference  | 
 | :------------ |:---------------:|
