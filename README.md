@@ -80,7 +80,7 @@ MyCroft in Picroft
 3. Market Research
 4. Project Objectives
 5. System Specification
-..5.1 Mycroft Architecture
+- Mycroft Architecture
 - Mycroft Data Privacy Handling
 - Mycroft Home-UI Setting
 - Mycroft Linux Installation and Application
