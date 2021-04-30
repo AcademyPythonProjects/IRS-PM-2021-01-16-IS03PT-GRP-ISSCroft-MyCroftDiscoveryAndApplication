@@ -108,12 +108,9 @@ MyCroft in Picroft
 
 NUSCroft Demo:
 
-| Selena Setup  | Delivery API  | Daily Quiz  |
-| ------------- |:-------------:| -----:|
-|<a href="https://youtu.be/Xd8jZ0yc6Po" target="_blank"><img src="http://img.youtube.com/vi/Xd8jZ0yc6Po/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>|<a href="https://www.youtube.com/watch?v=WvILHueP06U" target="_blank"><img src="http://img.youtube.com/vi/WvILHueP06U/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>|<a href="https://www.youtube.com/watch?v=Ntgi5n6cIbU" target="_blank"><img src="http://img.youtube.com/vi/Ntgi5n6cIbU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>|
+<a href="https://youtu.be/Xd8jZ0yc6Po" target="_blank"><img src="http://img.youtube.com/vi/Xd8jZ0yc6Po/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=WvILHueP06U" target="_blank"><img src="http://img.youtube.com/vi/WvILHueP06U/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=Ntgi5n6cIbU" target="_blank"><img src="http://img.youtube.com/vi/Ntgi5n6cIbU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
