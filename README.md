@@ -86,7 +86,6 @@ Refer to [MDAA_Installation_User_Guide](https://github.com/twming/IRS-PM-2021-01
 - Installation and User Guide
 - References
 
-####### [Report link](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Project%20Report_Group4.docx)
 ---
 ## SECTION 7 : MISCELLANEOUS
 
