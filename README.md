@@ -57,7 +57,7 @@ Refer to [MDAA_Installation_User_Guide](https://github.com/twming/IRS-PM-2021-01
 
 ---
 ## SECTION 6 : PROJECT REPORT
-######[link](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Project Report_Group4.docx)
+######[link](https://github.com/twming/IRS-PM-2021-01-16-IS02PT-GRP4-MyCroftDiscoveryAndApplication/tree/master/ProjectReport/MDAA_Project%20Report_Group4.docx)
 
 1. Project Overview
 2. Business Perspective
