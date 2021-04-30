@@ -44,32 +44,16 @@ MyCroft in Picroft & Selene Server
 
 ## SECTION 5 : USER GUIDE
 
-Refer to MDAA_Installation_User_Guide file. 
+Referenct to setup MyCroft Account, Raspberry Pi and Selene Server
 
-### [ 1 ] To run the system using iss-vm
+| Items  | Reference  | 
+| :------------ |:---------------:|
+| MyCroft Account, Pair Device | User Guide 2.1 |
+| Raspberry Pi Setup | User Guide 3.2 |
+| Selene Personal Server Setup | User Guide 3.3 |
+| Delivery  Use Case Code Setup | User Guide 4.1, 4.2 |
 
-> download pre-built virtual machine from http://bit.ly/iss-vm
-
-> start iss-vm
-
-> open terminal in iss-vm
-
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
-
-> $ source activate iss-env-py2
-
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
-
-> (iss-env-py2) $ python app.py
-
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+Refer to MDAA_Installation_User_Guide file in Miscellaneous folder. 
 
 ---
 ## SECTION 6 : PROJECT REPORT
