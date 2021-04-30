@@ -24,11 +24,11 @@ The Mycroft Linux VDM platform serves as a good and standard platform for learni
 
 | Name  | Student ID  | Work Items (Who Did What) | Email |
 | :------------ |:---------------:| :-----| :-----|
-| LI XIAO XIA   | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| YANG YANG     | A0229971R | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| TAN WOEI MING | A0229974L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| twming2001@yahoo.com.sg |
-| JIANG AI GUO  | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| ANG JENN NING | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@q.com |
+| LI XIAO XIA   | A0229975J | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687383@u.nus.edu |
+| YANG YANG     | A0229971R | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687379@u.nus.edu |
+| TAN WOEI MING | A0229974L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687382@u.nus.edu |
+| JIANG AI GUO  | A0180524L | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0284010@u.nus.edu |
+| ANG JENN NING | A0229970U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| E0687378@u.nus.edu |
 
 ---
 
