@@ -2,7 +2,7 @@
 ---
 
 ## SECTION 1 : PROJECT TITLE
-## MyCroft Discovery and Applications
+## MyCroft Discovery and Application
 
 <img src="Miscellaneous/coverpage.jpg"
      style="float: left; margin-right: 0px;" />
@@ -11,18 +11,17 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-This project is to discover the data privacy handling, architecture, main components of Mycroft, interactions of components to make functionality and experiments on software and hardware tools for it. Main components are Wake Word Detection, Speech To Text (STT), Intent Parser, Text To Speech (TTS), Middleware (Mycroft core, home and API) and Skills. By setting up Mycroft core in specific devices and platforms followed by skill actioning, it brings all components together to fulfill the working functionality and expected experiments of Mycroft and can be treated as infrastructure for future exploration and usage.
+This project is to discover the data privacy handling, architecture, main components of Mycroft, interactions of components to make functionality and experiments on software and hardware tools for it. Main components are Wake Word Detection, Speech to Text (STT), Intent Parser, Text to Speech (TTS), Middleware (Mycroft core, home and API) and Skills. In addition, to set-up Mycroft core in devices like Mycroft Linux and Picroft (Raspberry PI based) followed by skill operation interfacing with Mycroft server and Personal server (setup based on Mycroft server), it brings all components together to fulfil the expected functionalities and experiments and can be treated as infrastructure for future exploration and usage.
 
-Furthermore, our project builds a few skills which run for intended scenarios. One scenario is to have users operate (like download, run, uninstall) on skills created by the author. And another scenario is to provide voice assistants on smart delivery path optimization. These developed skills run in our built-up infrastructure.
+Furthermore, our project builds customized skills as use cases which are running against devices (Mycroft Linux and Picroft) interfacing both Mycroft server and Personal server. And we also develop routes optimized parcel delivery system which is a REST API-enabled system to be called by skill to perform designed functions against Mycroft infrastructure.
 
-The bright spot of the project is to document the standard setup along with getting started instructions will speed new developer onboarding and reduce developer support needs. In addition, our project is built-in few devices and platforms such as Linux VM, Picroft and setting-up personal server which provide a wide range of knowledge points of Mycroft.
-The Mycroft Linux VDM platform serves as a good and standard platform for learning and exploration of Mycroft, and is suitable for most use cases. The Mycroft Picroft platform together with the Raspberry Pi device, works perfect for business cases like voice assistant for routes optimized parcel delivery, due to its small footprint and low cost. The Mycroft Personal Server, which the team spends great efforts to set up, allows users with privacy concerns or unreliable internet the ability to use Mycroft.
+The bright spot of the project is to document the standard setup along with detailed instructions which will speed up new user and developer onboarding Mycroft. And defined use cases enhanced the understanding about the Mycroft framework which can be used for future application. In addition, developed routes optimized parcel delivery system and applied skill running against Personal server is obviously extending the scope of Mycroft usage and bringing more value therefore potential attracting more focusing from users.
 
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-| Name  | Student ID  | Work Items (Who Did What) | Email |
+| Name  | Student ID  | Work Items | Email |
 | :------------ |:---------------:| :-----| :-----|
 | LI XIAO XIA   | A0229975J | Overall system architect and design, Mycroft Linux application, Project management and documentation.| E0687383@u.nus.edu |
 | YANG YANG     | A0229971R | Overall system design and implementation, Personal server setup , application and documentation.| E0687379@u.nus.edu |
@@ -34,7 +33,7 @@ The Mycroft Linux VDM platform serves as a good and standard platform for learni
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-MyCroft in Picroft
+MyCroft in Picroft & Selene Server
 - Voice Assisted
 - API call integration
 - Private and Scalable Selene Server
@@ -45,7 +44,7 @@ MyCroft in Picroft
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to MDDS_User_Guide file.`
+Refer to MDAA_Installation_User_Guide file. 
 
 ### [ 1 ] To run the system using iss-vm
 
@@ -99,14 +98,14 @@ MyCroft in Picroft
 7.  Project Conclusions
 8. Appendix
 - Project Proposal
-- Mapped System Functionalities against MR, RS, CGS	35
+- Mapped System Functionalities against MR, RS, CGS
 - Installation and User Guide
 - References
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-NUSCroft Demo:
+ISSCroft Demo:
 
 <a href="https://youtu.be/Xd8jZ0yc6Po" target="_blank"><img src="http://img.youtube.com/vi/Xd8jZ0yc6Po/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=WvILHueP06U" target="_blank"><img src="http://img.youtube.com/vi/WvILHueP06U/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=Ntgi5n6cIbU" target="_blank"><img src="http://img.youtube.com/vi/Ntgi5n6cIbU/0.jpg" 
@@ -114,10 +113,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ---
 
-**This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
-
-**Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
-
-[![alt text](https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/sam-website.tmb-.png "Let's check Sam' profile page")](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan)
-
-**zhan.gu@nus.edu.sg**
