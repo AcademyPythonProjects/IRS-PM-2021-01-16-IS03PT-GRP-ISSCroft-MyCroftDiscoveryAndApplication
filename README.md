@@ -38,7 +38,7 @@ MyCroft in Picroft & Selene Server
 - API call integration
 - Private and Scalable Selene Server
 
-[![MyCroft Application](http://img.youtube.com/vi/AQxaRUFnKfw/0.jpg)](https://youtu.be/AQxaRUFnKfw "MyCroft Application")
+<a href="https://youtu.be/L7mEZleByyk" target="_blank"><img src="http://img.youtube.com/vi/L7mEZleByyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ---
 
