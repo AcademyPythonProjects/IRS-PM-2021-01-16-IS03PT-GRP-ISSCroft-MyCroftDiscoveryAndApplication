@@ -90,7 +90,7 @@ Refer to [MDAA_Installation_User_Guide](https://github.com/twming/IRS-PM-2021-01
 ## SECTION 7 : MISCELLANEOUS
 
 Project Presentation:
-<a href="https://www.youtube.com/watch?v=42052A_CHeU" target="_blank"><img src="https://www.youtube.com/watch?v=42052A_CHeU/0.jpg" 
+<a href="https://www.youtube.com/watch?v=42052A_CHeU" target="_blank"><img src="https://img.youtube.com/vi/42052A_CHeU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ISSCroft Demo:
