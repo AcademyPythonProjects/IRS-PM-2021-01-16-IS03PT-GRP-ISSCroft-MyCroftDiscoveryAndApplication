@@ -37,9 +37,9 @@ MyCroft in Picroft & Selene Server
 - Voice Assisted
 - API call integration
 - Private and Scalable Selene Server
-<a href="https://youtu.be/L7mEZleByyk" target="_blank"><img src="http://img.youtube.com/vi/L7mEZleByyk/0.jpg" alt="IMAGE ALT TEXT HERE" width="960" height="720" border="10" /></a>
+<a href="https://youtu.be/F_joH_HtBuY" target="_blank"><img src="https://img.youtube.com/vi/F_joH_HtBuY/0.jpg" alt="IMAGE ALT TEXT HERE" width="960" height="720" border="10" /></a>
 
-<a href="https://www.youtube.com/watch?v=42052A_CHeU" target="_blank"><img src="https://img.youtube.com/vi/42052A_CHeU/0.jpg" alt="IMAGE ALT TEXT HERE" width="960" height="720" border="10" /></a>
+<a href="https://youtu.be/k9R6KZfFZKs" target="_blank"><img src="https://img.youtube.com/vi/k9R6KZfFZKs/0.jpg" alt="IMAGE ALT TEXT HERE" width="960" height="720" border="10" /></a>
 
 ---
 
