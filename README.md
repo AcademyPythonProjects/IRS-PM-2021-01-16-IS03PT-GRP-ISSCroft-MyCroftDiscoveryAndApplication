@@ -98,22 +98,22 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Skill Repository:
 
-**Parcel Delivery Route Optimizer
+- Parcel Delivery Route Optimizer
 https://github.com/jiangag/vrp.git
 
-**PiCroft for Parcel Delivery
+- PiCroft for Parcel Delivery
 https://github.com/twming/mycroft-delivery.git
 
-**Selene for Parcel Delivery
+- Selene for Parcel Delivery
 https://github.com/YYSunshine0912/mycroft-iss-project.git
 
-**Selene Server Setup
+- Selene Server Setup
 https://github.com/YYSunshine0912/mycroft-client-setup.git
 
-**Project Load Skill
+- Project Load Skill
 https://github.com/twming/mycroft-loadproject.git
 
-**Daily Quiz Skill
+- Daily Quiz Skill
 https://github.com/twming/mycroft-dailyquiz.git
 
 ---
