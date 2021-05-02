@@ -1,0 +1,6 @@
+# e.g. postal code sequence for vehicle 5 ...560529->560324->560153->761512->762432->791456->550201
+# use any of these 6 digit postal code as input for below 'current_postalCode'
+# or use wrong postal code: 5502019
+
+# if the input is 560324, then the output should be as below
+#b'"There are 5 more locations to go and the next one is 560153"'
