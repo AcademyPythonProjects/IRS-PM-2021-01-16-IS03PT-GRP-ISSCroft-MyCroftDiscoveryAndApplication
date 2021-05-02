@@ -96,5 +96,25 @@ ISSCroft Demo:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=Ntgi5n6cIbU" target="_blank"><img src="http://img.youtube.com/vi/Ntgi5n6cIbU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+Skill Repository:
+
+**Parcel Delivery Route Optimizer
+https://github.com/jiangag/vrp.git
+
+**PiCroft for Parcel Delivery
+https://github.com/twming/mycroft-delivery.git
+
+**Selene for Parcel Delivery
+https://github.com/YYSunshine0912/mycroft-iss-project.git
+
+**Selene Server Setup
+https://github.com/YYSunshine0912/mycroft-client-setup.git
+
+**Project Load Skill
+https://github.com/twming/mycroft-loadproject.git
+
+**Daily Quiz Skill
+https://github.com/twming/mycroft-dailyquiz.git
+
 ---
 
