@@ -96,7 +96,7 @@ ISSCroft Demo:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="https://www.youtube.com/watch?v=Ntgi5n6cIbU" target="_blank"><img src="http://img.youtube.com/vi/Ntgi5n6cIbU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-Skill Repository:
+Skill and Github Repository:
 
 - Parcel Delivery Route Optimizer
 https://github.com/jiangag/vrp.git
